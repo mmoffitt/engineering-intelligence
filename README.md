@@ -13,6 +13,6 @@ To access the latest Colab notebook, click on the bottommost link:
 | Week 2(b) | [Working with Image Grids](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week02b.ipynb) | [[link]](https://colab.research.google.com/drive/1-RPVecP6PR4VMOt8l8s366QFIFzv8ZD2) |
 | Week 3(a) | [Learning Rules from Examples](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week03a.ipynb) | [[link]](https://colab.research.google.com/drive/1gHJ5ligwosMX9fa8uIfXzAf5j9hMHAYV) |
 | Week 3(b) | [A Gallery of Grid Transformations](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week03b.ipynb) | [[link]](https://colab.research.google.com/drive/1Zo8ZjXsRcHAkSIJfUWrs8Mf_AWk2pLY9) |
-| Week 4 | [Sorting a World of Bars](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week04.ipynb) | |
+| Week 4 | [Sorting a World of Bars](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week04.ipynb) | [[link]](https://colab.research.google.com/drive/1m87LrfG9UtZrJJd1wlIaxd5Xp922BkKE) |
 
 </div>
