@@ -14,6 +14,7 @@ To access the latest Colab notebook, click on the bottommost link:
 | Week #3(a) | [Learning Rules from Examples](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week03a.ipynb) | [[link]](https://colab.research.google.com/drive/1gHJ5ligwosMX9fa8uIfXzAf5j9hMHAYV) |
 | Week #3(b) | [A Gallery of Grid Transformations](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week03b.ipynb) | [[link]](https://colab.research.google.com/drive/1Zo8ZjXsRcHAkSIJfUWrs8Mf_AWk2pLY9) |
 | Week #4 | [Sorting a World of Bars](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week04.ipynb) | [[link]](https://colab.research.google.com/drive/1m87LrfG9UtZrJJd1wlIaxd5Xp922BkKE) |
-| Week #5(a) | [Finding and Cropping an Object](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week05a.ipynb) | |
+| Week #5(a) | [Finding and Cropping an Object](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week05a.ipynb) | [[link]](https://colab.research.google.com/drive/1c7h5VBE-q3ggntoiaNvKoevx6y0QuRyO) |
+| Week #5(b) | [Building Transformation Pipelines](https://colab.research.google.com/github/mmoffitt/engineering-intelligence/blob/main/notebooks/week05b.ipynb) | |
 
 </div>
